@@ -1,8 +1,8 @@
-# Step-by-Step guide to trigger your Selenium tests using Accessibility Tool
+# Step-by-Step guide to trigger your Selenium tests using Accessibility Tool — TestMu AI (Formerly LambdaTest)
 
 ## Prerequisites
 
-- Your [LambdaTest Username and Access key](/support/docs/using-environment-variables-for-authentication-credentials/)
+- Your [TestMu AI Username and Access key](/support/docs/using-environment-variables-for-authentication-credentials/)
 - Setup your local machine as per your testing framework.
 
 ### Step 1: Setup Your Test Suite
@@ -26,11 +26,11 @@ capabilities.setCapability("build", "LambdaTestSampleApp");
 capabilities.setCapability("name", "LambdaTestJavaSample");
 ```
 
-> You can generate capabilities for your test requirements with the help of our inbuilt 🔗 [Capabilities Generator Tool](https://www.lambdatest.com/capabilities-generator/).
+> You can generate capabilities for your test requirements with the help of our inbuilt 🔗 [Capabilities Generator Tool](https://www.testmuai.com/capabilities-generator/).
 
 ### Step 2: Establish User Authentication
 
-Now, you need to export your environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the [LambdaTest Profile page](https://accounts.lambdatest.com/detail/profile).
+Now, you need to export your environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the [TestMu AI Profile page](https://accounts.lambdatest.com/detail/profile).
 
 Run the below mentioned commands in your terminal to setup the CLI and the environment variables.
 
@@ -66,3 +66,22 @@ Now execute your tests and visit the [Automation Dashboard](https://accounts.lam
 ```bash
 mvn test
 ```
+
+## 🚀 [LambdaTest is Now TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/)
+
+👋 Welcome to TestMu AI, the next evolution of LambdaTest. As of January 2026, LambdaTest has officially rebranded to TestMu AI. We have evolved from a cross-browser testing cloud into a unified, AI-native quality engineering platform designed for the modern DevOps era.
+
+Whether you have been part of the LambdaTest community for years or are just discovering TestMu AI, our mission remains the same: to help you ship faster with high-scale test execution, autonomous testing, and deep quality analytics.
+
+**🔄 Our Rebrand Journey**
+
+We chose the name TestMu AI to reflect our shift towards intelligent, autonomous testing. While our identity has changed, our core technology and commitment to the testing community stay the same.
+
+**✨ Specialties**
+
+- 🤖 AI-Native Test Execution (Formerly LambdaTest)
+- ⚡ Autonomous Test Automation
+- 🌐 Cross-Browser & Mobile Testing
+- 📊 Unified Quality Intelligence
+
+👉 Find [LambdaTest's New Home](https://www.testmuai.com/).
