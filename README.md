@@ -1,5 +1,7 @@
 # Run Selenium Accessibility Tests on TestMu AI (Formerly LambdaTest)
 
+> Run accessibility End-to-End (E2E) testing with Selenium across real browsers on the TestMu AI cloud.
+
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
   <a href="https://central.sonatype.com/artifact/org.seleniumhq.selenium/selenium-java"><img src="https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java.svg?style=for-the-badge&labelColor=000000" alt="Selenium version"></a>
